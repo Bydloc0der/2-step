@@ -10,6 +10,7 @@ namespace DEMOD
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("DЫK");
         }
     }
 }
